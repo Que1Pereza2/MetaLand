@@ -1,0 +1,12 @@
+body{
+    background-image: url('../images/moltenMetal.png');
+    
+  }
+
+.container{
+    background-color: grey;
+    height: auto;
+}
+#prize{
+  height: 300px;;
+}
